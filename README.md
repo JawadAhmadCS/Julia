@@ -19,3 +19,6 @@ This will automatically install IJulia for Jupyter Notebook.
 
 ### Step 4: Verify Installation
 To check if everything is set up correctly, open Jupyter Notebook and see if the Julia kernel is available than its ok.
+
+
+For more detail:[ see this](https://youtu.be/oyx8M1yoboY)
