@@ -22,6 +22,13 @@ Pkg.add("IJulia")
 ```
 This will automatically install IJulia for Jupyter Notebook.
 
+### Rebuild the Package:
+If there's a specific error, you can try rebuilding your environment:
+
+```
+using Pkg
+Pkg.build("IJulia")
+```
 ### Step 4: Verify Installation
 To check if everything is set up correctly, open Jupyter Notebook and see if the Julia kernel is available than its ok.
 
